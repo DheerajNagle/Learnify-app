@@ -283,6 +283,10 @@ npx serve .
 ### **Live Preview**
 The landing page is available at: `file:///C:/Projects/Learnify/index.html`
 
+### **🔗 Connect with Developer**
+- **LinkedIn:** [https://www.linkedin.com/in/dheeraj-nagle-8a37a6197/](https://www.linkedin.com/in/dheeraj-nagle-8a37a6197/)
+- **GitHub:** [https://github.com/DheerajNagle](https://github.com/DheerajNagle)
+
 ---
 
 ## Recent Updates
