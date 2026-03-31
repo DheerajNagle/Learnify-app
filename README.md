@@ -253,6 +253,38 @@ For issues and questions:
 
 ---
 
+## 🌐 Landing Page
+
+A stunning Apple-style landing page has been created to showcase the Learnify app:
+
+### **Features**
+- **Apple-inspired design** with SF Pro Display typography
+- **Premium gradients** and smooth animations
+- **Responsive layout** for all devices
+- **Interactive elements** including 3D phone mockup
+- **Professional sections**: Hero, Features, Screenshots, Developer, Footer
+
+### **View the Landing Page**
+```bash
+# Open in browser
+open index.html
+
+# Or serve with a web server
+npx serve .
+```
+
+### **Technical Details**
+- **Pure HTML, CSS, and JavaScript** (no frameworks)
+- **CSS Grid and Flexbox** for responsive layouts
+- **Intersection Observer API** for scroll animations
+- **CSS custom properties** for consistent theming
+- **Mobile-first responsive design**
+
+### **Live Preview**
+The landing page is available at: `file:///C:/Projects/Learnify/index.html`
+
+---
+
 ## Recent Updates
 
 ### 🎯 Major Fixes & Improvements
@@ -261,6 +293,7 @@ For issues and questions:
 - ✅ **Added Web Support**: Installed react-dom and react-native-web for cross-platform compatibility
 - ✅ **Enhanced Error Handling**: Improved loading states and error messages throughout the app
 - ✅ **Package Compatibility**: All packages now compatible with Expo SDK 54
+- ✅ **Created Apple-Style Landing Page**: Built stunning, portfolio-ready landing page with premium design and smooth animations
 
 ### 📱 Platform Enhancements
 - **iOS**: Full compatibility with Expo Go, boolean error resolved
@@ -273,6 +306,7 @@ For issues and questions:
 - **Storage**: Enhanced AsyncStorage usage with proper error handling
 - **UI/UX**: Improved loading states and user feedback
 - **Code Quality**: Clean component structure and reusable patterns
+- **Web Presence**: Added professional Apple-style landing page with modern web technologies
 
 ---
 
